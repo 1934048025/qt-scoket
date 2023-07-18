@@ -1,0 +1,7 @@
+﻿  Generate moc_predefs.h
+  main.cpp
+  mainwindow.cpp
+  view.cpp
+  moc_mainwindow.cpp
+  moc_view.cpp
+  untitled1.vcxproj -> H:\untitled1\debug\untitled1.exe
